@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+ <path transform="matrix(.9366 0 0 .9366 -31.841 -6.5405)" d="m62.341 12.326v31.311h31.131" fill="none" stroke="#4c4c4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3366"/>
+ <path transform="matrix(.9366 0 0 .9366 -31.841 -6.5405)" d="m63.19275,15.74489h7.2935a.31206,.31206 0 0,1 .31206.31206v26.9076a.31206,.31206 0 0,1 -.31206.31206h-7.2935a.31206,.31206 0 0,1 -.31206-.31206v-26.9076a.31206,.31206 0 0,1 .31206-.31206" fill="#b3b3b3" fill-rule="evenodd" stroke="#4c4c4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0019"/>
+ <path transform="matrix(.9366 0 0 .9366 -31.841 -6.5405)" d="m73.87829,28.40125h7.2935a.31206,.31206 0 0,1 .31206.31206v14.55096a.31206,.31206 0 0,1 -.31206.31206h-7.2935a.31206,.31206 0 0,1 -.31206-.31206v-14.55096a.31206,.31206 0 0,1 .31206-.31206" fill="#7f7f7f" fill-rule="evenodd" stroke="#4c4c4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0019"/>
+ <path transform="matrix(.9366 0 0 .9366 -31.841 -6.5405)" d="m84.50821,21.93511h7.2935a.31206,.31206 0 0,1 .31206.31206v20.82526a.31206,.31206 0 0,1 -.31206.31206h-7.2935a.31206,.31206 0 0,1 -.31206-.31206v-20.82526a.31206,.31206 0 0,1 .31206-.31206" fill="#666" fill-rule="evenodd" stroke="#4c4c4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0019"/>
+ <path transform="matrix(.70162 0 0 .70162 .5344 13.656)" d="m57.223 32.828a25.912 25.912 0 1 1 -1.2e-4 -0.0785" fill="#b3b3b3" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.454"/>
+ <path transform="matrix(.70162 0 0 .70162 .5344 13.656)" d="m57.223 32.828a25.912 25.912 0 1 1 -18.375 -24.792l-7.5376 24.792z" fill="#7f7f7f" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.454"/>
+ <path transform="matrix(.70162 0 0 .70162 .5344 13.656)" d="m8.2226 44.592a25.912 25.912 0 0 1 30.626 -36.556l-7.5376 24.792z" fill="#4c4c4c" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.454"/>
+</svg>
